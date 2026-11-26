@@ -1,0 +1,18 @@
+{
+  "name": "SceneryNews — 日常の風景からニュースに出会う",
+  "short_name": "SceneryNews",
+  "description": "日常の風景を撮るだけで、写っているモノから思いがけないニュースに出会えるカメラアプリ（Gemini 4 Hydrogen）",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141416",
+  "theme_color": "#141416",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
